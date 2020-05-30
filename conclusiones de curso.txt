@@ -1,0 +1,3 @@
+En conclusion la herramienta git sirve para llevar un control de versiones de archivos.Es un software que posibilita la creacion de un registro del historial de los cambios o modificaciones de los archivos en un proyecto determinado.
+Utiliza un software de tipo distribuido mediante el cual se pudo identificar los diferentes tipos de funciones y comandos empleados que contribuyen a fortalecer la administracion de los archivos.
+ 
